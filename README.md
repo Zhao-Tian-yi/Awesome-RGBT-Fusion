@@ -5,7 +5,7 @@ The main directions involved are Multispectral Pedestrian Detection, RGB-T Aeria
 Welcome to add valuable papers and codes, feel free to star and contact me. Keep updating....🚀
 
 ## Some News: 🆕
-💎 **2025.07.04 Add one our paper in RGB-T Aerial Object Detection.** <br>
+💎 **2025.07.04 Add one our ICCV paper in RGB-T Aerial Object Detection.** <br>
 
 👀 **2025.04.01 Add one dataset in RGB-T-Aerial-Object-Detection (RGBT-Tiny).** <br>
 
@@ -107,7 +107,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 8. DetFusion: A Detection-driven Infrared and Visible Image Fusion Network, ACM Multimedia 2022, Yiming Sun et al. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3503161.3547902)][[Code](https://github.com/SunYM2020/DetFusion)]
 
 ### Illumination Aware
-1. Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning, ICCV 2025, Tianyi Zhao et al. [[PDF](https://arxiv.org/abs/2503.11780)]
+1. Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning, ICCV 2025, Tianyi Zhao et al. [[PDF](https://arxiv.org/abs/2503.11780)][[code](https://github.com/Zhao-Tian-yi/M2D-LIF)]
 2. Efficient Multispectral Object Detection with attentive feature aggregation leveraging zero-shot implicit illumination guidance, Information Fusion 2025, Zhongxia Xiong et al., [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253525000120)]
 3. EI<sup>2</sup>Det: Edge-Guided Illumination-Aware Interactive Learning for Visible-Infrared Object Detection, TCSVT 2025, Ke Hu et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10877920)] [[Code](https://github.com/hukefy/EI2Det)]
 4. RGB-X Object Detection via Scene-Specific Fusion Modules, WACV 2024, Sri Aditya Deevi et al. [[PDF](https://arxiv.org/abs/2310.19372)] [[Code](https://github.com/dsriaditya999/RGBXFusion)]
@@ -132,7 +132,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 10. Multispectral Pedestrian Detection via Simultaneous Detection and Segmentation, BMVC 2018, Chengyang Li et al.[[PDF](https://arxiv.org/abs/1808.04818)][[Code](https://github.com/Li-Chengyang/MSDS-RCNN)]
 
 ### Mono-Modality
-1. Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning, ICCV 2025, Tianyi Zhao et al. [[PDF](https://arxiv.org/abs/2503.11780)]
+1. Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning, ICCV 2025, Tianyi Zhao et al. [[PDF](https://arxiv.org/abs/2503.11780)][[code](https://github.com/Zhao-Tian-yi/M2D-LIF)]
 2. TIRDet: Mono-Modality Thermal InfraRed Object Detection Based on Prior Thermal-To-Visible Translation, ACM MM 2023, Zeyu Wang et al. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3581783.3613849)][[Code](https://github.com/zeyuwang-zju/TIRDet)]
 3. Towards Versatile Pedestrian Detector with Multisensory-Matching and Multispectral Recalling Memory, AAAI 2022, Kim et al. [[PDF](https://www.aaai.org/AAAI22Papers/AAAI-8768.KimJ.pdf)]
 4. Robust Thermal Infrared Pedestrian Detection By Associating Visible Pedestrian Knowledge, ICASSP 2022, Sungjune Park et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/9746886)]
@@ -159,7 +159,7 @@ DroneVehicle: partially aligned [[link](https://github.com/VisDrone/DroneVehicle
 VEDAI: strictly aligned [[link](https://downloads.greyc.fr/vedai/)].
 
 ## Papers
-1. Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning, ICCV 2025, Tianyi Zhao et al. [[PDF](https://arxiv.org/abs/2503.11780)]
+1. Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning, ICCV 2025, Tianyi Zhao et al. [[PDF](https://arxiv.org/abs/2503.11780)][[code](https://github.com/Zhao-Tian-yi/M2D-LIF)]
 2. Reflectance-Guided Progressive Feature Alignment Network for All-Day UAV Object Detection, TGRS 2025, Zhicheng Zhao et al., [[PDF](https://ieeexplore.ieee.org/document/11017749)][[Code](https://github.com/uavdet/RGFNet)]
 3. Visible-Infrared Image Alignment For Unmanned Aerial Vehicles: Benchmark and New Baseline, TGRS 2025, Zhinan Gao et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10854690)][[Code](https://github.com/gaozhinanjiu/UAVmatch)]
 4. LAST-Net: Local Adaptivity Spatial Transformer Network for Multiobject Detection in UAV Remote Sensing Thermal Infrared Imagery, TGRS 2025, Min Li et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10972092)]
